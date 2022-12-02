@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-A physician majored in nuclear medicine.
-Interested in python and R.
-All work can be robotized when possible.
+- A physician majored in nuclear medicine.
+- Interested in python and R.
+- All work can be robotized when possible.
