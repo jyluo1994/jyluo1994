@@ -15,6 +15,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- A physician majored in nuclear medicine.
-- Interested in python and R.
-- All work can be robotized when possible.
+### Yongluo Jiang, M.D.
+![](https://img.shields.io/badge/Nuclear%20Medicine-Radiomics%2FDeep%20Learning-blue.svg
+)
+![](https://img.shields.io/badge/Coding-Python/R-red.svg)
+
+> Atypical doctor | Happy to code
+
+- :man: Learning radiomics and deep learning methods, especially for PET/CT and PET/MR
+- :office: Currently working as nuclear medicine physician at Sun Yat-sen University Cancer Center
+- :question:Interested in predicting diagnosis and prognosis beyond human capabilities by computational approach, especially for lung cancer and nasopharyngeal carcinoma
+- :computer: All work can be robotized when possible.
+- 🔍 Learn more about my research and my recent updates at [ResearchGate](https://www.researchgate.net/profile/Yongluo_Jiang)
