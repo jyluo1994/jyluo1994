@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Yongluo Jiang, M.D.
-![](https://img.shields.io/badge/Nuclear%20Medicine-Radiomics%2FDeep%20Learning-blue.svg
-)
+![](https://img.shields.io/badge/Nuclear%20Medicine-Radiomics%2FDeep%20Learning-blue.svg)
+
 ![](https://img.shields.io/badge/Coding-Python/R-red.svg)
 
 > Atypical doctor | Happy to code
